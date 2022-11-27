@@ -9,4 +9,5 @@ Projede temel düzey HTML ve CSS bilgisi ile BOOTSTRAP kullanılmıştır.
 
 <h3> Proje Site Görüntüler </h3>
 
+![](.gif)
 ![](bootstrap.gif)
